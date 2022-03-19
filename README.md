@@ -1,3 +1,8 @@
+This was from the Udemy teaching series for the proshop_mern project from Traversy Media.  I found it to be a great project for an excellent learning experience.
+
+Manuel
+========================================================================================================================
+
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
